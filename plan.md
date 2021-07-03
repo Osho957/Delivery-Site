@@ -6,10 +6,10 @@
     - Dev dependancies
         - nodemon
 [+] Create Express server - Create a server.js file - DONE
-[+] Git setup and first commit
-[+] Install Laravel Mix
+[+] Git setup and first commit - DONE
+[+] Install Laravel Mix -DONE
     - setup js and scss
-[+] Install tailwind css
+[+] Install tailwind css -DONE
 [+] Create Home page using Html and Css
 [+] Create Cart page
     - order summary section
