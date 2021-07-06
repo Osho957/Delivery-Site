@@ -10,15 +10,15 @@
 [+] Install Laravel Mix -DONE
     - setup js and scss
 [+] Install tailwind css -DONE
-[+] Create Home page using Html and Css
-[+] Create Cart page
+[+] Create Home page using Html and Css -DONE
+[+] Create Cart page -DONE
     - order summary section
     - empty cart section
-[+] - move routes to routes files
-[+] - Create dedicated controllers
+[+] - move routes to routes files -DONE
+[+] - Create dedicated controllers -DONE
 [+] Add to cart functionality
-    [+] Fetch all pizzas from db and show on home page
-    [+] Create menu model and put dummy Data
+    [+] Fetch all pizzas from db and show on home page -DONE
+    [+] Create menu model and put dummy Data -DONE
         - connect to mongo db
         - use connect-mongo for session store
             - dependancies
