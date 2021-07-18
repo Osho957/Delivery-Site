@@ -28,11 +28,10 @@ function initRoutes(app) {
   //Customer route
   app.post('/orders', auth, orderController().store);
   app.get('/customer/orders', auth, orderController().index);
-
+  app.get('/customer/orders/:id', auth, orderController().show);
   //Admin routes
   app.get('/admin/orders', admin ,adminorderController().index);
-
-  app.get('/admin/orders/status', admin ,statusController().update);
+  app.post('/admin/order/status', admin ,statusController().update);
 
 }
 
