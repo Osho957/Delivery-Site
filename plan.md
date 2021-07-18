@@ -32,11 +32,11 @@
     - status code article https://www.restapitutorial.com/httpstatuscodes.html
 [+] Build login using passport -DONE
     - install dependancies passport passport-local express-session
-[+] Create Order controller and link it in server.js
-[+] Create Orders view with table for customer and admin
-[+] Place order functionality
-[+] Show all my orders on custormer orders page
-[+] Show orders on admin orders page
+[+] Create Order controller and link it in server.js -DONE
+[+] Create Orders view with table for customer and admin -DONE
+[+] Place order functionality -DONE
+[+] Show all my orders on custormer orders page -DONE
+[+] Show orders on admin orders page -DONE
 [+] Change order status
 [+] Create Orders single page with status
 [+] Order tracker
