@@ -1,5 +1,5 @@
 # Delivery-Site
-# Realtime pizza app using Node-express-mongo-socket.io
+# Realtime Food Delivery app using Node-express-mongo-socket.io
 
 ![Realtime Pizza app](https://github.com/Osho957/Delivery-Site/blob/main/Screenshot%202020-09-21%20at%2023.03.06.png)
 
