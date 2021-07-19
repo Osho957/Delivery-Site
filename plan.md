@@ -38,9 +38,9 @@
 [+] Show all my orders on custormer orders page -DONE
 [+] Show orders on admin orders page -DONE
 [+] Change order status -DONE
-[+] Create Orders single page with status
-[+] Order tracker
-    [+] Socket connection
-        - dependancies socket.io
+[+] Create Orders single page with status-DONE
+[+] Order tracker-DONE
+    [+] Socket connection-DONE
+        - dependancies socket.io-DONE
 [ ] Build project for deployment
 [ ] Deploy project on live server
