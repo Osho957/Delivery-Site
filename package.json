@@ -5,14 +5,9 @@
   "main": "index.js",
   "author": "Osho",
   "engines": {
-<<<<<<< HEAD
     "node": "v14.17.3"
-   },
   
-=======
-   "node": "v14.17.3"
   },
->>>>>>> 2b3f7eefa46e0161110e36daa81457e90aeebbee
   "scripts": {
     "serve": "node server.js",
     "dev": "nodemon server.js",
