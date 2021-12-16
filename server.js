@@ -89,7 +89,7 @@ app.use((req,res)=>{
 })
 
 const server = app.listen(PORT,()=>{
-    console.log(`Listening on port xyz ${PORT}`);
+    console.log(`Listening on port xyz`);
 })
 
 
